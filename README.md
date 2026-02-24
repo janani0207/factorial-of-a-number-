@@ -55,11 +55,14 @@ END
 OUTPUT
 
 (Keil output screenshot can be inserted here)
+<img width="1449" height="427" alt="image" src="https://github.com/user-attachments/assets/087b2ca1-33fc-4868-bc18-c7ba8e968e9f" />
 
 ---
 MANUAL CALCULATIONS
 
 ---
+<img width="1184" height="607" alt="image" src="https://github.com/user-attachments/assets/e004b19b-76b3-4edc-a226-0752a9890274" />
+
 
 RESULT
 
